@@ -1,0 +1,7 @@
+{
+  "name": "RAPID RESCUE",
+  "description": "An emergency response app that detects accidents via device motion and automatically alerts emergency contacts and nearby hospitals if the user is unresponsive.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
